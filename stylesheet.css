@@ -2,6 +2,9 @@ stylesheet.css
  #title {
 	text-align: center;
 }
+#map {
+        height: 100%;
+      }
 ul.nav{
 	list-style-type: none;
 	text-align: center;
